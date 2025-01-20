@@ -1,3 +1,4 @@
+-- Base de dades Creada per Nacho Cabanes.
 -- WorldCountryCities
 -- Aquesta base de dades ha sigut creada per a MySQL Workbench
 CREATE TABLE country (
